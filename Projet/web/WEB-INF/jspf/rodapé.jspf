@@ -1,0 +1,11 @@
+<%@ page pageEncoding="UTF-8" %>
+<style>
+    footer{
+
+    }
+</style>
+<footer>
+    <center>
+    <p ><small>Grupo 08 - Projeto Quiz | Faculdade de Tecnologia de Praia Grande 2020</small></p>
+    </center>
+</footer>

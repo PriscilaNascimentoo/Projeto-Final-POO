@@ -1,0 +1,49 @@
+<%@ page pageEncoding="UTF-8" %>
+
+<style>  
+    a{
+	text-decoration: none;
+        color:white;
+}
+
+a:hover{
+	text-decoration: none;
+}
+#area-cabeçalho a:link, #area-cabeçalho a:visited{
+	color:#FFF;
+	padding:8px 12px ;
+
+}
+
+#area-cabeçalho a:hover{
+	color: grey;
+	background: #FFF;
+	text-decoration: none;
+}
+#area-cabeçalho{
+	background-color:grey;
+	padding: 15px;
+	text-align: center;
+}
+
+
+</style>
+
+
+
+<nav>   
+        
+        <div id="area-cabeçalho">
+            <h1 style=" color:white; ">Teste de matemática</h1>
+		<div id="area-menu">
+                    <center>
+                        <a href="index.jsp">Paginá Inicial</a>
+                        <a href="sobre.jsp">Sobre </a>
+                        <a href="quiz.jsp">Realizar QUIZ</a>
+
+                    </center>
+                </div>
+	    </div>
+
+
+</nav>
